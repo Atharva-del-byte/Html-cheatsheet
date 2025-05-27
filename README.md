@@ -1,57 +1,88 @@
-<div align="center">
-  <h1>😂 HTML Cheatsheet: The Relatable Edition</h1>
-  <p>Learn HTML through real-life chaos: moms, coffee, login forms, and broken dreams 💀</p>
-  <img src="https://img.shields.io/badge/HTML-But%20Make%20It%20Funny-orange?style=for-the-badge&logo=html5" />
-  <br><br>
-  <img src="https://img.icons8.com/color/96/html-5.png" width="80" />
-</div>
+# 🎨 CSS5 Resources Collection
+
+Welcome to the **CSS5 Resources** repository — your ultimate curated collection of modern CSS tools, tutorials, frameworks, and inspiration!
 
 ---
 
-## 📌 Why This Exists
+## 📖 Tutorials & Guides
 
-Because regular cheatsheets are DRY. So this one's:
-- ✅ Practical
-- ✅ Stupidly relatable
-- ✅ Makes you snort-laugh while learning
+- [MDN CSS Tutorial](https://developer.mozilla.org/en-US/docs/Web/CSS) — Comprehensive and authoritative CSS documentation and tutorials.
+- [CSS-Tricks Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) — Master Flexbox layouts with this detailed guide.
+- [CSS-Tricks Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) — Learn CSS Grid with practical examples.
+- [FreeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) — Hands-on CSS and responsive design tutorials.
 
----
+<p align="center">
+  <img src="https://i.imgflip.com/4/3vzej.jpg" alt="CSS Debugging Meme" width="400" />
+</p>
 
-## 🤓 What’s Covered?
-
-| Episode                            | Topic           | Description                                      |
-|-----------------------------------|------------------|--------------------------------------------------|
-| ☕ `1-broken-coffee-machine/`       | Basic Tags       | When life needs `<h1>` energy but you’re `<p>`   |
-| 🔐 `2-overengineered-login-form/`  | Forms            | Login forms that ask your blood group too        |
-| 🧓 `3-arguing-with-mom-layout/`     | Semantic Tags    | Explains family hierarchy using HTML5 structure  |
-| 🍽️ `4-family-dinner-table/`        | Tables           | Tabular trauma over dinner                       |
-| 🎶 `5-spotify-playlist-vibes/`      | Media            | Embed songs you cry to at 2AM                    |
-| 🤯 `6-overthinking-head-meta/`      | Metadata         | When your `<head>` is more chaotic than your life |
+> *"When you finally fix that CSS bug after hours of debugging..."*
 
 ---
 
-## 🧪 Sample: Arguing With Mom (Semantic Tags)
+## 🛠 Frameworks & Tools
 
-```html
-<header>
-  <h1>Mom's House</h1>
-</header>
+- [Bootstrap 5](https://getbootstrap.com/) — Popular CSS framework with responsive design utilities.
+- [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework for rapid UI development.
+- [PostCSS](https://postcss.org/) — Tool for transforming CSS with JavaScript plugins.
+- [Autoprefixer](https://github.com/postcss/autoprefixer) — Automatically add vendor prefixes to CSS rules.
 
-<nav>
-  <ul>
-    <li>Kitchen</li>
-    <li>Living Room</li>
-    <li>Chappal Section</li>
-  </ul>
-</nav>
+<p align="center">
+  <img src="https://i.imgflip.com/4/4t0m5.jpg" alt="CSS Framework Meme" width="400" />
+</p>
 
-<main>
-  <article>
-    <h2>Today's Fight</h2>
-    <p>Why didn't you clean your room?</p>
-  </article>
-</main>
+> *"When you discover a CSS framework that does half your work for you."*
 
-<footer>
-  <p>Respect your mom or face the chappal.</p>
-</footer>
+---
+
+## 🎨 Inspiration & Examples
+
+- [CSS Zen Garden](http://www.csszengarden.com/) — Classic showcase of CSS design possibilities.
+- [CodePen CSS Collection](https://codepen.io/collection/XzqYbP) — Curated CSS demos and experiments.
+- [Awwwards CSS Websites](https://www.awwwards.com/websites/css/) — Award-winning CSS-powered websites.
+
+<p align="center">
+  <img src="https://i.imgflip.com/4/4t0m7.jpg" alt="CSS Inspiration Meme" width="400" />
+</p>
+
+> *"When your CSS design finally looks as good as you imagined."*
+
+---
+
+## 😂 Naruto Running Break
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4dQ0QXq6Q6q2k/giphy.gif" alt="Naruto Running" width="300" />
+</p>
+
+---
+
+## 🔧 How to Use This Repo
+
+1. Browse the categories above.
+2. Click on the links to explore resources.
+3. Star ⭐ the repo if you find it helpful!
+4. Contribute by submitting PRs with new resources or improvements.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 💬 Connect
+
+Follow me on [Twitter](https://twitter.com/yourhandle) for updates and tips.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS5-Resources-blueviolet?style=for-the-badge&logo=css3" alt="CSS5 Badge" />
+</p>
